@@ -1,0 +1,33 @@
+**/.project
+**/target/
+**/.settings
+**/.classpath
+**/*.iml
+**/.DS_Store
+**/.idea
+
+**/uni_modules
+**/dist
+**/node_modules
+**/miniprogram_npm
+**/.env.local
+**/.env.*.local
+
+# Log files
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+/applog/*
+
+# Editor directories and files
+**/.vscode
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+**/*.sln
+**/*.sw?
+**/package-lock.json
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
